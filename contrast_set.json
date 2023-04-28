@@ -1,0 +1,632 @@
+{"test": [   
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church during a severe earthquake.",
+        "hypothesis": "The church has cracks in the ceiling.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church has sound waves hitting the ceiling.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing incredibly loud songs at the resonant frequency of glass windows.",
+        "hypothesis": "The church has cracks in the windows.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs about their newly repaired ceiling.",
+        "hypothesis": "The church has cracks in the ceiling.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church has no music books.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing depressing songs from the book at a church.",
+        "hypothesis": "The church is filled to the ceiling with joy.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir stands before the masses as the priest reads joyous words from the book at a church.",
+        "hypothesis": "The church is filled with song.",
+        "label": "1"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church is filled with prayers. ",
+        "label": "1"
+    },
+    {
+        "premise": "This church choir talks to the masses as they talk about joyous songs from the book at a church.",
+        "hypothesis": "The church is filled with prayers.",
+        "label": "1"
+    },
+    {
+        "premise": "This church choir goes on strike as they stop singing joyous songs from the book at a church.",
+        "hypothesis": "The church is filled with song.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church is devoid of song.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir dances with the masses as they dance joyous dances from the book at a church.",
+        "hypothesis": "The church is filled with paraplegics.",
+        "label": "2"
+    },
+    {
+        "premise": "This church choir sings to the fans as they sing joyous songs at a baseball field.",
+        "hypothesis": "A choir singing at a baseball game.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "A choir singing not at a baseball game.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a basketball game.",
+        "hypothesis": "A choir singing at a basketball game.",
+        "label": "0"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a game.",
+        "hypothesis": "A choir singing at a baseball game.",
+        "label": "1"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "A choir singing at a church near a baseball game.",
+        "label": "1"
+    },
+    {
+        "premise": "This church choir preaches to the masses as they preach joyous messages from the book at a church.",
+        "hypothesis": "A choir preaching at a church near a baseball game.",
+        "label": "1"
+    },
+    {
+        "premise": "An adolescent woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is young.",
+        "label": "0"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is dressed.",
+        "label": "0"
+    },
+    {
+        "premise": "A woman with a green headscarf, black shirt and a very big grin.",
+        "hypothesis": "The woman is wearing black.",
+        "label": "0"
+    },
+    {
+        "premise": "A middle-aged woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is young.",
+        "label": "2"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is sleeping.",
+        "label": "2"
+    },
+    {
+        "premise": "A man with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is old.",
+        "label": "2"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big nose.",
+        "hypothesis": "The woman is very happy.",
+        "label": "1"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin. ",
+        "hypothesis": "The woman is very pretty.",
+        "label": "1"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very small grin.",
+        "hypothesis": "The woman is very pretty.",
+        "label": "1"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big frown.",
+        "hypothesis": "The woman is very happy.",
+        "label": "2"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is very angry.",
+        "label": "2"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and not a very big grin.",
+        "hypothesis": "The woman is wearing a green shirt.",
+        "label": "2"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big bullet wound.",
+        "hypothesis": "The woman has been shot.",
+        "label": "0"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman has not been shot.",
+        "label": "0"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big knife wound.",
+        "hypothesis": "The woman has been stabbed.",
+        "label": "0"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big wound.",
+        "hypothesis": "The woman has been shot.",
+        "label": "1"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman has been shooting.",
+        "label": "1"
+    },
+    {
+        "premise": "A woman with a green bandana, blue shirt and a very big bruise.",
+        "hypothesis": "The woman has been punched.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man with a package poses in front of a sign.",
+        "hypothesis": "A man poses in front of an ad.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man takes pictures in front of an ad.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man has a package in front of an advertisement.",
+        "hypothesis": "A man sits in front of an ad.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man with a package wanders in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad.",
+        "label": "2"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an artwork.",
+        "label": "2"
+    },
+    {
+        "premise": "A young man with a package poses in front of an advertisement.",
+        "hypothesis": "A man runs in front of an ad.",
+        "label": "2"
+    },
+    {
+        "premise": "An old man with a package poses in front of a beer advertisement.",
+        "hypothesis": "A man poses in front of an ad for beer.",
+        "label": "0"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad for something.",
+        "label": "0"
+    },
+    {
+        "premise": "An old man with a package of IPA poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad with beer.",
+        "label": "0"
+    },
+    {
+        "premise": "An old woman with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad for beer.",
+        "label": "2"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses behind an ad for beer.",
+        "label": "2"
+    },
+    {
+        "premise": "An old man with a package lays in front of an advertisement.",
+        "hypothesis": "A man stands in front of an ad for beer.",
+        "label": "2"
+    },
+    {
+        "premise": "An old man with a package walks in front of an advertisement.",
+        "hypothesis": "A man walks by an ad.",
+        "label": "0"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses by an ad.",
+        "label": "0"
+    },
+    {
+        "premise": "An old man with a package walks in front of an advertisement.",
+        "hypothesis": "A man walks with a package.",
+        "label": "0"
+    },
+    {
+        "premise": "An old man with a package does not pose in front of an advertisement.",
+        "hypothesis": "A man walks by an ad.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man walks by a man.",
+        "label": "1"
+    },
+    {
+        "premise": "An old man with a package walks in front of an advertisement.",
+        "hypothesis": "A man walks by a poster.",
+        "label": "1"
+    },
+    {
+        "premise": "A crude statue at a museum that everyone seems to be mad at.",
+        "hypothesis": "The statue is offensive and people are mad that it is on display.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "The statue is standing and people are not excited that it is on display.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue not at a museum that everyone seems to be looking for.",
+        "hypothesis": "The statue is popular and people are confused that it is not on display.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be bothered by.",
+        "hypothesis": "The statue is offensive and people are mad that it is on display.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "The statue is offensive and people are noticing that it is on display.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that someone seems to be looking at.",
+        "hypothesis": "The statue is boring and people are unaware that it is on display.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be touching.",
+        "hypothesis": "There is a statue that not many people seem to be interested in.",
+        "label": "1"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "There is a metal statue that not many people seem to be looking at.",
+        "label": "1"
+    },
+    {
+        "premise": "A statue at a park that no one seems to be looking at.",
+        "hypothesis": "There is a statue that not many birds seem to be landing on.",
+        "label": "1"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking away from.",
+        "hypothesis": "There is a statue that not many people seem to be interested in.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "There is a statue that many people seem to be interested in.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that seems to be looking at no one.",
+        "hypothesis": "There is a statue that many people seem to think is looking at them.",
+        "label": "2"
+    },
+    {
+        "premise": "A statue at a museum that a crowd seems to be looking at.",
+        "hypothesis": "Tons of people are gathered around the statue.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "Tons of people are not gathered around the statue.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to not be looking at.",
+        "hypothesis": "The people who are gathered around look at the statue.",
+        "label": "0"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be talking to.",
+        "hypothesis": "Tons of people are gathered around the statue.",
+        "label": "1"
+    },
+    {
+        "premise": "A statue at a museum that no one seems to be looking at.",
+        "hypothesis": "Tons of signs are gathered around the statue.",
+        "label": "1"
+    },
+    {
+        "premise": "A statue at a museum that no one appears to be looking at.",
+        "hypothesis": "Tons of blind people are gathered around the statue.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven across a geological feature. ",
+        "hypothesis": "A Land Rover is splashing water as it crosses a river.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A Land Rover is splashing water as it crosses a beautiful river.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is not being driven across a river. ",
+        "hypothesis": "A Land Rover is splashing water as it crosses a lake.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being flown across a river. ",
+        "hypothesis": "A Land Rover is splashing water as it crosses a river.",
+        "label": "2"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A Land Rover is splashing water as it crosses a lake.",
+        "label": "2"
+    },
+    {
+        "premise": "A land rover is being driven across a canyon. ",
+        "hypothesis": "A Land Rover is splashing dirt and sand as it crosses a river.",
+        "label": "2"
+    },
+    {
+        "premise": "A land rover is being driven across a body of water. ",
+        "hypothesis": "A vehicle is crossing a river.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A vehicle is crossing a muddy river.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven next to a river. ",
+        "hypothesis": "A vehicle is about to cross a river.",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven next to a river. ",
+        "hypothesis": "A vehicle is crossing a river.",
+        "label": "2"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A sedan is crossing a river.",
+        "label": "2"
+    },
+    {
+        "premise": "A horse is being driven across a river. ",
+        "hypothesis": "A motorized vehicle is crossing a river.",
+        "label": "2"
+    },
+    {
+        "premise": "A sedan is unintentionally stopped being driven across a river. ",
+        "hypothesis": "A sedan is stuck in the middle of a river. ",
+        "label": "0"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A vehicle is moving in the middle of a river. ",
+        "label": "0"
+    },
+    {
+        "premise": "A sedan is being driven across a river. ",
+        "hypothesis": "A sedan is not stuck in the middle of a river. ",
+        "label": "0"
+    },
+    {
+        "premise": "A car is attempting to drive across a river. ",
+        "hypothesis": "A sedan is stuck in the middle of a river. ",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is being driven across a river. ",
+        "hypothesis": "A land rover is honking in the middle of a river. ",
+        "label": "1"
+    },
+    {
+        "premise": "A land rover is towing a sedan across a river. ",
+        "hypothesis": "A sedan was stuck in the middle of a river. ",
+        "label": "1"
+    },
+    {
+        "premise": "A man playing an electric banjo on the ground. ",
+        "hypothesis": "A man playing banjo on the floor. ",
+        "label": "0"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A man not playing banjo on the floor. ",
+        "label": "0"
+    },
+    {
+        "premise": "A woman playing an electric guitar on stage. ",
+        "hypothesis": "A man not playing banjo on the floor. ",
+        "label": "0"
+    },
+    {
+        "premise": "A man playing an instrument off stage. ",
+        "hypothesis": "A man playing banjo on the floor. ",
+        "label": "1"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A different man playing banjo on the floor. ",
+        "label": "1"
+    },
+    {
+        "premise": "A man not playing an electric guitar on stage. ",
+        "hypothesis": "A man not playing banjo on the floor. ",
+        "label": "1"
+    },
+    {
+        "premise": "A man playing an electric guitar behind curtains. ",
+        "hypothesis": "A man playing guitar on stage.",
+        "label": "1"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A man playing lead guitar on stage.",
+        "label": "1"
+    },
+    {
+        "premise": "A man unplugging an electric guitar on stage. ",
+        "hypothesis": "A man was playing guitar on stage.",
+        "label": "1"
+    },
+    {
+        "premise": "A man playing an electric guitar on a street. ",
+        "hypothesis": "A man playing guitar on stage.",
+        "label": "2"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A man playing acoustic guitar on stage.",
+        "label": "2"
+    },
+    {
+        "premise": "A man playing an electric fiddle on stage. ",
+        "hypothesis": "A man playing viola on stage.",
+        "label": "2"
+    },
+    {
+        "premise": "A man paid to play an electric guitar on stage. ",
+        "hypothesis": "A man is performing for cash. ",
+        "label": "0"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A man is performing for cash or not for cash. ",
+        "label": "0"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage to get pizza. ",
+        "hypothesis": "A man is performing for food. ",
+        "label": "0"
+    },
+    {
+        "premise": "A man playing an electric guitar in private. ",
+        "hypothesis": "A man is performing for cash. ",
+        "label": "2"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage. ",
+        "hypothesis": "A man is making guitars for cash. ",
+        "label": "2"
+    },
+    {
+        "premise": "A man playing an electric bass on stage. ",
+        "hypothesis": "A man is performing dance for cash. ",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is looking at a book",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical information.",
+        "hypothesis": "A female nurse is looking at a book",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant take turns looking threw old medical manuals.",
+        "hypothesis": "A doctor is currently looking at a book",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor makes her African american assistant look threw new medical manuals.",
+        "hypothesis": "A doctor is looking at a book",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is looking at a novel",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant threw away new medical manuals.",
+        "hypothesis": "A doctor is looking at a medical book",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and his African american assistant looking threw new medical manuals while eating sandwiches made of jelly and peanut butter.",
+        "hypothesis": "A man is eating pb and j",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A man is not eating pb and j",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals that are stained with peanut butter and jelly.",
+        "hypothesis": "A man got pb and j on some manuals",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals during lunch time.",
+        "hypothesis": "A man is eating pb and j",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A man likes eating pb and j",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor who is eating pb and j and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "An African american man is eating pb and j",
+        "label": "1"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals to prepare for an exam.",
+        "hypothesis": "A doctor is studying",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is reading",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new comic books.",
+        "hypothesis": "A doctor is not studying",
+        "label": "0"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new comic books.",
+        "hypothesis": "A doctor is studying",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is playing",
+        "label": "2"
+    },
+    {
+        "premise": "A blonde-haired doctor and her African american assistant looking threw new car manuals.",
+        "hypothesis": "A doctor is studying medicine",
+        "label": "2"
+    }
+]}

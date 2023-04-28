@@ -1,0 +1,127 @@
+premise,hypothesis,label
+This church choir sings to the masses as they sing joyous songs from the book at a church during a severe earthquake.,The church has cracks in the ceiling.,0
+This church choir sings to the masses as they sing joyous songs from the book at a church.,The church has sound waves hitting the ceiling.,0
+This church choir sings to the masses as they sing incredibly loud songs at the resonant frequency of glass windows.,The church has cracks in the windows.,0
+This church choir sings to the masses as they sing joyous songs about their newly repaired ceiling.,The church has cracks in the ceiling.,2
+This church choir sings to the masses as they sing joyous songs from the book at a church.,The church has no music books.,2
+This church choir sings to the masses as they sing depressing songs from the book at a church.,The church is filled to the ceiling with joy.,2
+This church choir stands before the masses as the priest reads joyous words from the book at a church.,The church is filled with song.,1
+This church choir sings to the masses as they sing joyous songs from the book at a church.,The church is filled with prayers. ,1
+This church choir talks to the masses as they talk about joyous songs from the book at a church.,The church is filled with prayers.,1
+This church choir goes on strike as they stop singing joyous songs from the book at a church.,The church is filled with song.,2
+This church choir sings to the masses as they sing joyous songs from the book at a church.,The church is devoid of song.,2
+This church choir dances with the masses as they dance joyous dances from the book at a church.,The church is filled with paraplegics.,2
+This church choir sings to the fans as they sing joyous songs at a baseball field.,A choir singing at a baseball game.,0
+This church choir sings to the masses as they sing joyous songs from the book at a church.,A choir singing not at a baseball game.,0
+This church choir sings to the masses as they sing joyous songs from the book at a basketball game.,A choir singing at a basketball game.,0
+This church choir sings to the masses as they sing joyous songs from the book at a game.,A choir singing at a baseball game.,1
+This church choir sings to the masses as they sing joyous songs from the book at a church.,A choir singing at a church near a baseball game.,1
+This church choir preaches to the masses as they preach joyous messages from the book at a church.,A choir preaching at a church near a baseball game.,1
+"An adolescent woman with a green headscarf, blue shirt and a very big grin.",The woman is young.,0
+"A woman with a green headscarf, blue shirt and a very big grin.",The woman is dressed.,0
+"A woman with a green headscarf, black shirt and a very big grin.",The woman is wearing black.,0
+"A middle-aged woman with a green headscarf, blue shirt and a very big grin.",The woman is young.,2
+"A woman with a green headscarf, blue shirt and a very big grin.",The woman is sleeping.,2
+"A man with a green headscarf, blue shirt and a very big grin.",The woman is old.,2
+"A woman with a green headscarf, blue shirt and a very big nose.",The woman is very happy.,1
+"A woman with a green headscarf, blue shirt and a very big grin. ",The woman is very pretty.,1
+"A woman with a green headscarf, blue shirt and a very small grin.",The woman is very pretty.,1
+"A woman with a green headscarf, blue shirt and a very big frown.",The woman is very happy.,2
+"A woman with a green headscarf, blue shirt and a very big grin.",The woman is very angry.,2
+"A woman with a green headscarf, blue shirt and not a very big grin.",The woman is wearing a green shirt.,2
+"A woman with a green headscarf, blue shirt and a very big bullet wound.",The woman has been shot.,0
+"A woman with a green headscarf, blue shirt and a very big grin.",The woman has not been shot.,0
+"A woman with a green headscarf, blue shirt and a very big knife wound.",The woman has been stabbed.,0
+"A woman with a green headscarf, blue shirt and a very big wound.",The woman has been shot.,1
+"A woman with a green headscarf, blue shirt and a very big grin.",The woman has been shooting.,1
+"A woman with a green bandana, blue shirt and a very big bruise.",The woman has been punched.,1
+An old man with a package poses in front of a sign.,A man poses in front of an ad.,1
+An old man with a package poses in front of an advertisement.,A man takes pictures in front of an ad.,1
+An old man has a package in front of an advertisement.,A man sits in front of an ad.,1
+An old man with a package wanders in front of an advertisement.,A man poses in front of an ad.,2
+An old man with a package poses in front of an advertisement.,A man poses in front of an artwork.,2
+A young man with a package poses in front of an advertisement.,A man runs in front of an ad.,2
+An old man with a package poses in front of a beer advertisement.,A man poses in front of an ad for beer.,0
+An old man with a package poses in front of an advertisement.,A man poses in front of an ad for something.,0
+An old man with a package of IPA poses in front of an advertisement.,A man poses in front of an ad with beer.,0
+An old woman with a package poses in front of an advertisement.,A man poses in front of an ad for beer.,2
+An old man with a package poses in front of an advertisement.,A man poses behind an ad for beer.,2
+An old man with a package lays in front of an advertisement.,A man stands in front of an ad for beer.,2
+An old man with a package walks in front of an advertisement.,A man walks by an ad.,0
+An old man with a package poses in front of an advertisement.,A man poses by an ad.,0
+An old man with a package walks in front of an advertisement.,A man walks with a package.,0
+An old man with a package does not pose in front of an advertisement.,A man walks by an ad.,1
+An old man with a package poses in front of an advertisement.,A man walks by a man.,1
+An old man with a package walks in front of an advertisement.,A man walks by a poster.,1
+A crude statue at a museum that everyone seems to be mad at.,The statue is offensive and people are mad that it is on display.,0
+A statue at a museum that no one seems to be looking at.,The statue is standing and people are not excited that it is on display.,0
+A statue not at a museum that everyone seems to be looking for.,The statue is popular and people are confused that it is not on display.,0
+A statue at a museum that no one seems to be bothered by.,The statue is offensive and people are mad that it is on display.,2
+A statue at a museum that no one seems to be looking at.,The statue is offensive and people are noticing that it is on display.,2
+A statue at a museum that someone seems to be looking at.,The statue is boring and people are unaware that it is on display.,2
+A statue at a museum that no one seems to be touching.,There is a statue that not many people seem to be interested in.,1
+A statue at a museum that no one seems to be looking at.,There is a metal statue that not many people seem to be looking at.,1
+A statue at a park that no one seems to be looking at.,There is a statue that not many birds seem to be landing on.,1
+A statue at a museum that no one seems to be looking away from.,There is a statue that not many people seem to be interested in.,2
+A statue at a museum that no one seems to be looking at.,There is a statue that many people seem to be interested in.,2
+A statue at a museum that seems to be looking at no one.,There is a statue that many people seem to think is looking at them.,2
+A statue at a museum that a crowd seems to be looking at.,Tons of people are gathered around the statue.,0
+A statue at a museum that no one seems to be looking at.,Tons of people are not gathered around the statue.,0
+A statue at a museum that no one seems to not be looking at.,The people who are gathered around look at the statue.,0
+A statue at a museum that no one seems to be talking to.,Tons of people are gathered around the statue.,1
+A statue at a museum that no one seems to be looking at.,Tons of signs are gathered around the statue.,1
+A statue at a museum that no one appears to be looking at.,Tons of blind people are gathered around the statue.,1
+A land rover is being driven across a geological feature. ,A Land Rover is splashing water as it crosses a river.,1
+A land rover is being driven across a river. ,A Land Rover is splashing water as it crosses a beautiful river.,1
+A land rover is not being driven across a river. ,A Land Rover is splashing water as it crosses a lake.,1
+A land rover is being flown across a river. ,A Land Rover is splashing water as it crosses a river.,2
+A land rover is being driven across a river. ,A Land Rover is splashing water as it crosses a lake.,2
+A land rover is being driven across a canyon. ,A Land Rover is splashing dirt and sand as it crosses a river.,2
+A land rover is being driven across a body of water. ,A vehicle is crossing a river.,1
+A land rover is being driven across a river. ,A vehicle is crossing a muddy river.,1
+A land rover is being driven next to a river. ,A vehicle is about to cross a river.,1
+A land rover is being driven next to a river. ,A vehicle is crossing a river.,2
+A land rover is being driven across a river. ,A sedan is crossing a river.,2
+A horse is being driven across a river. ,A motorized vehicle is crossing a river.,2
+A sedan is unintentionally stopped being driven across a river. ,A sedan is stuck in the middle of a river. ,0
+A land rover is being driven across a river. ,A vehicle is moving in the middle of a river. ,0
+A sedan is being driven across a river. ,A sedan is not stuck in the middle of a river. ,0
+A car is attempting to drive across a river. ,A sedan is stuck in the middle of a river. ,1
+A land rover is being driven across a river. ,A land rover is honking in the middle of a river. ,1
+A land rover is towing a sedan across a river. ,A sedan was stuck in the middle of a river. ,1
+A man playing an electric banjo on the ground. ,A man playing banjo on the floor. ,0
+A man playing an electric guitar on stage. ,A man not playing banjo on the floor. ,0
+A woman playing an electric guitar on stage. ,A man not playing banjo on the floor. ,0
+A man playing an instrument off stage. ,A man playing banjo on the floor. ,1
+A man playing an electric guitar on stage. ,A different man playing banjo on the floor. ,1
+A man not playing an electric guitar on stage. ,A man not playing banjo on the floor. ,1
+A man playing an electric guitar behind curtains. ,A man playing guitar on stage.,1
+A man playing an electric guitar on stage. ,A man playing lead guitar on stage.,1
+A man unplugging an electric guitar on stage. ,A man was playing guitar on stage.,1
+A man playing an electric guitar on a street. ,A man playing guitar on stage.,2
+A man playing an electric guitar on stage. ,A man playing acoustic guitar on stage.,2
+A man playing an electric fiddle on stage. ,A man playing viola on stage.,2
+A man paid to play an electric guitar on stage. ,A man is performing for cash. ,0
+A man playing an electric guitar on stage. ,A man is performing for cash or not for cash. ,0
+A man playing an electric guitar on stage to get pizza. ,A man is performing for food. ,0
+A man playing an electric guitar in private. ,A man is performing for cash. ,2
+A man playing an electric guitar on stage. ,A man is making guitars for cash. ,2
+A man playing an electric bass on stage. ,A man is performing dance for cash. ,2
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is looking at a book,1
+A blonde-haired doctor and her African american assistant looking threw new medical information.,A female nurse is looking at a book,1
+A blonde-haired doctor and her African american assistant take turns looking threw old medical manuals.,A doctor is currently looking at a book,1
+A blonde-haired doctor makes her African american assistant look threw new medical manuals.,A doctor is looking at a book,2
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is looking at a novel,2
+A blonde-haired doctor and her African american assistant threw away new medical manuals.,A doctor is looking at a medical book,2
+A blonde-haired doctor and his African american assistant looking threw new medical manuals while eating sandwiches made of jelly and peanut butter.,A man is eating pb and j,0
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A man is not eating pb and j,0
+A blonde-haired doctor and her African american assistant looking threw new medical manuals that are stained with peanut butter and jelly.,A man got pb and j on some manuals,0
+A blonde-haired doctor and her African american assistant looking threw new medical manuals during lunch time.,A man is eating pb and j,1
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A man likes eating pb and j,1
+A blonde-haired doctor who is eating pb and j and her African american assistant looking threw new medical manuals.,An African american man is eating pb and j,1
+A blonde-haired doctor and her African american assistant looking threw new medical manuals to prepare for an exam.,A doctor is studying,0
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is reading,0
+A blonde-haired doctor and her African american assistant looking threw new comic books.,A doctor is not studying,0
+A blonde-haired doctor and her African american assistant looking threw new comic books.,A doctor is studying,2
+A blonde-haired doctor and her African american assistant looking threw new medical manuals.,A doctor is playing,2
+A blonde-haired doctor and her African american assistant looking threw new car manuals.,A doctor is studying medicine,2
